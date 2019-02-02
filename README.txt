@@ -1,1 +1,1 @@
-Simple web page to showcase my stucio
+Simple web page to showcase my portfolio
